@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.6-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_Uw76EqASEe6TtrLmCCSNAQ" name="mostrar lista de usuarios">
+  <eAnnotations xmi:id="_Uw76E6ASEe6TtrLmCCSNAQ" source="uml2.diagrams" references="_Uw76FKASEe6TtrLmCCSNAQ">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Uw76FKASEe6TtrLmCCSNAQ" type="Freeform" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_VzAbEKASEe6TtrLmCCSNAQ" element="_Vy9-0KASEe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_VzAbEqASEe6TtrLmCCSNAQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_VzAbE6ASEe6TtrLmCCSNAQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_VzAbFKASEe6TtrLmCCSNAQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_VzAbFaASEe6TtrLmCCSNAQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_VzBCIKASEe6TtrLmCCSNAQ" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_VzBCIaASEe6TtrLmCCSNAQ" type="PackageContents" collapsed="true" canonical="false"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VzAbEaASEe6TtrLmCCSNAQ" x="11430" y="6223"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_X2OQAKASEe6TtrLmCCSNAQ" element="_X2IwcKASEe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_X2O3EKASEe6TtrLmCCSNAQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_X2O3EaASEe6TtrLmCCSNAQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_X2PeIKASEe6TtrLmCCSNAQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_X2PeIaASEe6TtrLmCCSNAQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_X2PeIqASEe6TtrLmCCSNAQ" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_X2QFMKASEe6TtrLmCCSNAQ" type="PackageContents" collapsed="true" canonical="false"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X2OQAaASEe6TtrLmCCSNAQ" x="10414" y="3302"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_jOAnoKASEe6TtrLmCCSNAQ" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Tipo de dato: Lista de cadena de caracteres&lt;/p>&lt;p>Longitud: -indefinida-&lt;/p>&lt;p>Requisitos: Estar codificado en UTF-8.&lt;/p>&lt;p>Se muestra siempre&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_jOBOsKASEe6TtrLmCCSNAQ" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_jOBOsaASEe6TtrLmCCSNAQ" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:TextStyle" xmi:id="_jOAnoaASEe6TtrLmCCSNAQ"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_jOAnoqASEe6TtrLmCCSNAQ"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jOAno6ASEe6TtrLmCCSNAQ" x="10414" y="-508"/>
+      </children>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_iobOUKASEe6TtrLmCCSNAQ" element="_ioZZIKASEe6TtrLmCCSNAQ" source="_X2OQAKASEe6TtrLmCCSNAQ" target="_VzAbEKASEe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_iobOUqASEe6TtrLmCCSNAQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_iobOVKASEe6TtrLmCCSNAQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_iobOVaASEe6TtrLmCCSNAQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iobOU6ASEe6TtrLmCCSNAQ" y="-149"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_iobOUaASEe6TtrLmCCSNAQ" points="[3, -16, 3, -154]$[3, 122, 3, -16]"/>
+      </edges>
+      <edges xmi:type="notation:Connector" xmi:id="_ypdB8KASEe6TtrLmCCSNAQ" type="NoteAttachment" source="_X2OQAKASEe6TtrLmCCSNAQ" target="_jOAnoKASEe6TtrLmCCSNAQ" lineColor="0" lineWidth="1">
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_ypdB8aASEe6TtrLmCCSNAQ"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_ypdB8qASEe6TtrLmCCSNAQ"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ypdB86ASEe6TtrLmCCSNAQ" points="[8, -16, 1, 59]$[8, -76, 1, -1]"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ypeQEKASEe6TtrLmCCSNAQ" id="(0.5107338991512731,1.0)"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_Uw76FaASEe6TtrLmCCSNAQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_Vy9-0KASEe6TtrLmCCSNAQ" name="Mostrar lista de usuarios" clientDependency="_hczIsKASEe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_Vy-l4KASEe6TtrLmCCSNAQ" source="uml2.diagrams" references="_Vy-l4aASEe6TtrLmCCSNAQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Vy-l4aASEe6TtrLmCCSNAQ" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_hczIsKASEe6TtrLmCCSNAQ" supplier="_X2IwcKASEe6TtrLmCCSNAQ" client="_Vy9-0KASEe6TtrLmCCSNAQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_X2IwcKASEe6TtrLmCCSNAQ" name="Usuarios registrados en la base de datos" clientDependency="_ioZZIKASEe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_X2J-kKASEe6TtrLmCCSNAQ" source="uml2.diagrams" references="_X2J-kaASEe6TtrLmCCSNAQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_X2J-kaASEe6TtrLmCCSNAQ" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_ioZZIKASEe6TtrLmCCSNAQ" supplier="_Vy9-0KASEe6TtrLmCCSNAQ" client="_X2IwcKASEe6TtrLmCCSNAQ"/>
+  </packagedElement>
+  <profileApplication xmi:id="_Uw76FqASEe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_Uw76F6ASEe6TtrLmCCSNAQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_Uw76GKASEe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_Uw76GaASEe6TtrLmCCSNAQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_Uw76GqASEe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_Uw76G6ASEe6TtrLmCCSNAQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_4OVBUD0TEeKt-L0gyEptgQ?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
