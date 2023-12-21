@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.6-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_g9RwkqAREe6TtrLmCCSNAQ" name="dar de baja a un sponsor">
+  <eAnnotations xmi:id="_g9Rwk6AREe6TtrLmCCSNAQ" source="uml2.diagrams" references="_g9RwlKAREe6TtrLmCCSNAQ">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_g9RwlKAREe6TtrLmCCSNAQ" type="Freeform" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_lxYYwKAREe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_lxYYwaAREe6TtrLmCCSNAQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_lxYYwqAREe6TtrLmCCSNAQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxYYw6AREe6TtrLmCCSNAQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxYYxKAREe6TtrLmCCSNAQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxYYxaAREe6TtrLmCCSNAQ" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_lxY_0KAREe6TtrLmCCSNAQ" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="dar%20de%20alta%20sponsor.emx#_X_HDEKAOEe6TtrLmCCSNAQ?dar%20de%20alta%20sponsor/Dar%20de%20baja%20a%20un%20sponsor?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxY_0aAREe6TtrLmCCSNAQ" x="4910" y="6815" width="4018" height="1498"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_lxY_0qAREe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_lxY_06AREe6TtrLmCCSNAQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_lxY_1KAREe6TtrLmCCSNAQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxY_1aAREe6TtrLmCCSNAQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxY_1qAREe6TtrLmCCSNAQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxY_16AREe6TtrLmCCSNAQ" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_lxY_2KAREe6TtrLmCCSNAQ" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="dar%20de%20alta%20sponsor.emx#_fnhl8KAOEe6TtrLmCCSNAQ?dar%20de%20alta%20sponsor/Nombre%20del%20sponsor?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxY_2aAREe6TtrLmCCSNAQ" x="5672" y="3640" width="2705"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_lxZm6KAREe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_lxZm6aAREe6TtrLmCCSNAQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_lxZm6qAREe6TtrLmCCSNAQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxZm66AREe6TtrLmCCSNAQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxZm7KAREe6TtrLmCCSNAQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxZm7aAREe6TtrLmCCSNAQ" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_lxZm7qAREe6TtrLmCCSNAQ" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="dar%20de%20alta%20sponsor.emx#_2sDRgKAOEe6TtrLmCCSNAQ?dar%20de%20alta%20sponsor/ID%20del%20spnsor?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxZm76AREe6TtrLmCCSNAQ" x="5461" y="10160" width="3121"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_lxZm-KAREe6TtrLmCCSNAQ" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Tipo de dato: cadena de caracteres.&lt;/p>&lt;p>Longitud: 16&lt;/p>&lt;p>Requisitos: Estar codificado en UTF-8.&lt;/p>&lt;p>Se muestra siempre.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxZm-aAREe6TtrLmCCSNAQ" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxZm-qAREe6TtrLmCCSNAQ" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:TextStyle" xmi:id="_lxZm-6AREe6TtrLmCCSNAQ"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_lxZm_KAREe6TtrLmCCSNAQ"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxZm_aAREe6TtrLmCCSNAQ" x="4275" y="-297" width="5853" height="3429"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_lxaN9qAREe6TtrLmCCSNAQ" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Tipo de dato: cadena de caracteres&lt;/p>&lt;p>Longitud: 8&lt;/p>&lt;p>Requisitos: ser único&lt;/p>&lt;p>No se muestra&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxaN96AREe6TtrLmCCSNAQ" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxaN-KAREe6TtrLmCCSNAQ" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:TextStyle" xmi:id="_lxaN-aAREe6TtrLmCCSNAQ"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_lxaN-qAREe6TtrLmCCSNAQ"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxaN-6AREe6TtrLmCCSNAQ" x="4445" y="13335" height="3175"/>
+      </children>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_lxa1AKAREe6TtrLmCCSNAQ" source="_lxY_0qAREe6TtrLmCCSNAQ" target="_lxYYwKAREe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_lxa1AaAREe6TtrLmCCSNAQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxa1AqAREe6TtrLmCCSNAQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxa1A6AREe6TtrLmCCSNAQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxa1BKAREe6TtrLmCCSNAQ" y="-149"/>
+        </children>
+        <element xmi:type="uml:Dependency" href="dar%20de%20alta%20sponsor.emx#_A8GlAKAPEe6TtrLmCCSNAQ?dar%20de%20alta%20sponsor/Nombre%20del%20sponsor/%3CDependency%3E(Supplier-Dar de baja a un sponsor)?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lxa1BaAREe6TtrLmCCSNAQ" points="[5, -24, 10, -172]$[5, 126, 10, -22]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_lxa1BqAREe6TtrLmCCSNAQ" source="_lxZm6KAREe6TtrLmCCSNAQ" target="_lxYYwKAREe6TtrLmCCSNAQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_lxa1B6AREe6TtrLmCCSNAQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxa1CKAREe6TtrLmCCSNAQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_lxa1CaAREe6TtrLmCCSNAQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lxa1CqAREe6TtrLmCCSNAQ" y="-149"/>
+        </children>
+        <element xmi:type="uml:Dependency" href="dar%20de%20alta%20sponsor.emx#_CfIeAKAPEe6TtrLmCCSNAQ?dar%20de%20alta%20sponsor/ID%20del%20spnsor/%3CDependency%3E(Supplier-Dar de baja a un sponsor)?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lxa1C6AREe6TtrLmCCSNAQ" points="[-73, 4, 152, 10]$[-131, 4, 94, 10]"/>
+      </edges>
+      <edges xmi:type="notation:Connector" xmi:id="_lxbcEKAREe6TtrLmCCSNAQ" type="NoteAttachment" source="_lxY_0qAREe6TtrLmCCSNAQ" target="_lxZm-KAREe6TtrLmCCSNAQ" lineColor="0" lineWidth="1">
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_lxbcEaAREe6TtrLmCCSNAQ"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_lxbcEqAREe6TtrLmCCSNAQ"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lxbcE6AREe6TtrLmCCSNAQ" points="[-3, -24, 1, 116]$[-128, -134, -124, 6]"/>
+      </edges>
+      <edges xmi:type="notation:Connector" xmi:id="_lxbcGaAREe6TtrLmCCSNAQ" type="NoteAttachment" source="_lxaN9qAREe6TtrLmCCSNAQ" target="_lxZm6KAREe6TtrLmCCSNAQ" lineColor="0" lineWidth="1">
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_lxbcGqAREe6TtrLmCCSNAQ"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_lxbcG6AREe6TtrLmCCSNAQ"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lxbcHKAREe6TtrLmCCSNAQ" points="[0, 0, 144, 12]$[-70, -10, 74, 2]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lxbcHaAREe6TtrLmCCSNAQ" id="(0.5160802935462983,0.053228346456692915)"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_g9RwlaAREe6TtrLmCCSNAQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <profileApplication xmi:id="_g9RwlqAREe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_g9Rwl6AREe6TtrLmCCSNAQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_g9RwmKAREe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_g9RwmaAREe6TtrLmCCSNAQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_g9RwmqAREe6TtrLmCCSNAQ">
+    <eAnnotations xmi:id="_g9Rwm6AREe6TtrLmCCSNAQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_4OVBUD0TEeKt-L0gyEptgQ?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
